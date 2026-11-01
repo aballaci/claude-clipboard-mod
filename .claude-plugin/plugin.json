@@ -1,0 +1,10 @@
+{
+  "name": "clipboard",
+  "version": "0.1.0",
+  "description": "A notepad pane beside the chat: clip selected chat text, edit it, and send it back as your answer",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "aballaci"
+  }
+}

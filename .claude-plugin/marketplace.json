@@ -1,0 +1,6 @@
+{
+  "name": "claude-clipboard-mod",
+  "owner": { "name": "aballaci" },
+  "description": "Clipboard: a notepad pane beside the Claude Code chat",
+  "plugins": [{ "name": "clipboard", "source": "./" }]
+}
